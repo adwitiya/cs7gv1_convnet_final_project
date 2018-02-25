@@ -1,0 +1,30 @@
+Namespace(aug='SCALE_H_FLIP', batch_size=64, cuda=True, datapath='./data', epochs=24, lr=0.001, model='adwitiya', optim='Sgd', pretrained=False, tag='Testingtest')
+Data Augmentation Initialized with strategy SCALE_H_FLIP
+Sgd
+Epoch 0 || train Loss: 0.0742 || Acc: 0.0498||Top1: 0.0498|| Top5: 0.1615|| || Epoch 0 || val Loss: 0.0645 || Acc: 0.1137||Top1: 0.1137|| Top5: 0.3125|| || 
+Epoch 1 || train Loss: 0.0604 || Acc: 0.1511||Top1: 0.1511|| Top5: 0.3735|| || Epoch 1 || val Loss: 0.0554 || Acc: 0.2043||Top1: 0.2043|| Top5: 0.4540|| || 
+Epoch 2 || train Loss: 0.0542 || Acc: 0.2139||Top1: 0.2139|| Top5: 0.4712|| || Epoch 2 || val Loss: 0.0516 || Acc: 0.2437||Top1: 0.2437|| Top5: 0.5115|| || 
+Epoch 3 || train Loss: 0.0503 || Acc: 0.2610||Top1: 0.2610|| Top5: 0.5293|| || Epoch 3 || val Loss: 0.0502 || Acc: 0.2692||Top1: 0.2692|| Top5: 0.5307|| || 
+Epoch 4 || train Loss: 0.0473 || Acc: 0.2940||Top1: 0.2940|| Top5: 0.5717|| || Epoch 4 || val Loss: 0.0466 || Acc: 0.3105||Top1: 0.3105|| Top5: 0.5777|| || 
+Epoch 5 || train Loss: 0.0447 || Acc: 0.3269||Top1: 0.3269|| Top5: 0.6032|| || Epoch 5 || val Loss: 0.0442 || Acc: 0.3326||Top1: 0.3326|| Top5: 0.6119|| || 
+Epoch 6 || train Loss: 0.0425 || Acc: 0.3519||Top1: 0.3519|| Top5: 0.6332|| || Epoch 6 || val Loss: 0.0425 || Acc: 0.3600||Top1: 0.3600|| Top5: 0.6336|| || 
+Epoch 7 || train Loss: 0.0408 || Acc: 0.3769||Top1: 0.3769|| Top5: 0.6563|| || Epoch 7 || val Loss: 0.0416 || Acc: 0.3700||Top1: 0.3700|| Top5: 0.6480|| || 
+Epoch 8 || train Loss: 0.0390 || Acc: 0.3977||Top1: 0.3977|| Top5: 0.6783|| || Epoch 8 || val Loss: 0.0399 || Acc: 0.3908||Top1: 0.3908|| Top5: 0.6690|| || 
+Epoch 9 || train Loss: 0.0374 || Acc: 0.4155||Top1: 0.4155|| Top5: 0.6964|| || Epoch 9 || val Loss: 0.0391 || Acc: 0.3978||Top1: 0.3978|| Top5: 0.6763|| || 
+Epoch 10 || train Loss: 0.0360 || Acc: 0.4360||Top1: 0.4360|| Top5: 0.7149|| || Epoch 10 || val Loss: 0.0389 || Acc: 0.4096||Top1: 0.4096|| Top5: 0.6859|| || 
+Epoch 11 || train Loss: 0.0347 || Acc: 0.4522||Top1: 0.4522|| Top5: 0.7313|| || Epoch 11 || val Loss: 0.0379 || Acc: 0.4198||Top1: 0.4198|| Top5: 0.6912|| || 
+Epoch 12 || train Loss: 0.0335 || Acc: 0.4692||Top1: 0.4692|| Top5: 0.7437|| || Epoch 12 || val Loss: 0.0369 || Acc: 0.4291||Top1: 0.4291|| Top5: 0.7037|| || 
+Epoch 13 || train Loss: 0.0321 || Acc: 0.4874||Top1: 0.4874|| Top5: 0.7596|| || Epoch 13 || val Loss: 0.0365 || Acc: 0.4380||Top1: 0.4380|| Top5: 0.7098|| || 
+Epoch 14 || train Loss: 0.0310 || Acc: 0.5013||Top1: 0.5013|| Top5: 0.7725|| || Epoch 14 || val Loss: 0.0357 || Acc: 0.4479||Top1: 0.4479|| Top5: 0.7211|| || 
+Epoch 15 || train Loss: 0.0298 || Acc: 0.5170||Top1: 0.5170|| Top5: 0.7843|| || Epoch 15 || val Loss: 0.0360 || Acc: 0.4504||Top1: 0.4504|| Top5: 0.7143|| || 
+Epoch 16 || train Loss: 0.0288 || Acc: 0.5292||Top1: 0.5292|| Top5: 0.7953|| || Epoch 16 || val Loss: 0.0355 || Acc: 0.4514||Top1: 0.4514|| Top5: 0.7216|| || 
+Epoch 17 || train Loss: 0.0278 || Acc: 0.5454||Top1: 0.5454|| Top5: 0.8071|| || Epoch 17 || val Loss: 0.0353 || Acc: 0.4556||Top1: 0.4556|| Top5: 0.7296|| || 
+Epoch 18 || train Loss: 0.0267 || Acc: 0.5597||Top1: 0.5597|| Top5: 0.8169|| || Epoch 18 || val Loss: 0.0357 || Acc: 0.4630||Top1: 0.4630|| Top5: 0.7220|| || 
+Epoch 19 || train Loss: 0.0257 || Acc: 0.5730||Top1: 0.5730|| Top5: 0.8287|| || Epoch 19 || val Loss: 0.0352 || Acc: 0.4666||Top1: 0.4666|| Top5: 0.7278|| || 
+Epoch 20 || train Loss: 0.0248 || Acc: 0.5847||Top1: 0.5847|| Top5: 0.8379|| || Epoch 20 || val Loss: 0.0351 || Acc: 0.4705||Top1: 0.4705|| Top5: 0.7299|| || 
+Epoch 21 || train Loss: 0.0238 || Acc: 0.5976||Top1: 0.5976|| Top5: 0.8489|| || Epoch 21 || val Loss: 0.0346 || Acc: 0.4759||Top1: 0.4759|| Top5: 0.7367|| || 
+Epoch 22 || train Loss: 0.0229 || Acc: 0.6113||Top1: 0.6113|| Top5: 0.8579|| || Epoch 22 || val Loss: 0.0353 || Acc: 0.4740||Top1: 0.4740|| Top5: 0.7340|| || 
+Epoch 23 || train Loss: 0.0219 || Acc: 0.6258||Top1: 0.6258|| Top5: 0.8671|| || Epoch 23 || val Loss: 0.0354 || Acc: 0.4678||Top1: 0.4678|| Top5: 0.7391|| || 
+
+Training complete in 44m 36s
+Best val Acc: 0.475900

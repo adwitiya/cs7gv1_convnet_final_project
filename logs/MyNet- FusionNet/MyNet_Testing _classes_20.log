@@ -1,0 +1,37 @@
+Namespace(aug='SCALE_H_FLIP', batch_size=64, cuda=True, datapath='./test_data', epochs=24, lr=0.01, model='Test', optim='Sgd', pretrained=False, tag='Testing')
+Data Augmentation Initialized with strategy SCALE_H_FLIP
+loading test model
+loaded test model
+Sgd
+Epoch 0 || train Loss: 0.0094 || Acc: 0.8175||Top1: 0.8175|| Top5: 0.9648|| || Epoch 0 || val Loss: 0.0182 || Acc: 0.6980||Top1: 0.6980|| Top5: 0.9280|| || 
+Epoch 1 || train Loss: 0.0025 || Acc: 0.9485||Top1: 0.9485|| Top5: 0.9992|| || Epoch 1 || val Loss: 0.0182 || Acc: 0.7020||Top1: 0.7020|| Top5: 0.9350|| || 
+Epoch 2 || train Loss: 0.0018 || Acc: 0.9646||Top1: 0.9646|| Top5: 0.9992|| || Epoch 2 || val Loss: 0.0197 || Acc: 0.6900||Top1: 0.6900|| Top5: 0.9320|| || 
+Epoch 3 || train Loss: 0.0014 || Acc: 0.9718||Top1: 0.9718|| Top5: 0.9999|| || Epoch 3 || val Loss: 0.0207 || Acc: 0.6940||Top1: 0.6940|| Top5: 0.9220|| || 
+Epoch 4 || train Loss: 0.0012 || Acc: 0.9752||Top1: 0.9752|| Top5: 0.9999|| || Epoch 4 || val Loss: 0.0207 || Acc: 0.7020||Top1: 0.7020|| Top5: 0.9270|| || 
+Epoch 5 || train Loss: 0.0011 || Acc: 0.9761||Top1: 0.9761|| Top5: 0.9998|| || Epoch 5 || val Loss: 0.0212 || Acc: 0.7000||Top1: 0.7000|| Top5: 0.9290|| || 
+Epoch     5: reducing learning rate of group 0 to 5.0000e-03.
+Epoch 6 || train Loss: 0.0008 || Acc: 0.9830||Top1: 0.9830|| Top5: 0.9999|| || Epoch 6 || val Loss: 0.0209 || Acc: 0.7040||Top1: 0.7040|| Top5: 0.9300|| || 
+Epoch 7 || train Loss: 0.0006 || Acc: 0.9887||Top1: 0.9887|| Top5: 0.9999|| || Epoch 7 || val Loss: 0.0209 || Acc: 0.7060||Top1: 0.7060|| Top5: 0.9370|| || 
+Epoch 8 || train Loss: 0.0005 || Acc: 0.9904||Top1: 0.9904|| Top5: 1.0000|| || Epoch 8 || val Loss: 0.0217 || Acc: 0.7090||Top1: 0.7090|| Top5: 0.9370|| || 
+Epoch 9 || train Loss: 0.0004 || Acc: 0.9931||Top1: 0.9931|| Top5: 1.0000|| || Epoch 9 || val Loss: 0.0218 || Acc: 0.7050||Top1: 0.7050|| Top5: 0.9310|| || 
+Epoch     9: reducing learning rate of group 0 to 2.5000e-03.
+Epoch 10 || train Loss: 0.0003 || Acc: 0.9935||Top1: 0.9935|| Top5: 1.0000|| || Epoch 10 || val Loss: 0.0209 || Acc: 0.7140||Top1: 0.7140|| Top5: 0.9370|| || 
+Epoch 11 || train Loss: 0.0003 || Acc: 0.9944||Top1: 0.9944|| Top5: 1.0000|| || Epoch 11 || val Loss: 0.0209 || Acc: 0.7130||Top1: 0.7130|| Top5: 0.9390|| || 
+Epoch 12 || train Loss: 0.0002 || Acc: 0.9967||Top1: 0.9967|| Top5: 1.0000|| || Epoch 12 || val Loss: 0.0208 || Acc: 0.7180||Top1: 0.7180|| Top5: 0.9350|| || 
+Epoch 13 || train Loss: 0.0002 || Acc: 0.9966||Top1: 0.9966|| Top5: 1.0000|| || Epoch 13 || val Loss: 0.0206 || Acc: 0.7200||Top1: 0.7200|| Top5: 0.9370|| || 
+Epoch    13: reducing learning rate of group 0 to 1.2500e-03.
+Epoch 14 || train Loss: 0.0002 || Acc: 0.9957||Top1: 0.9957|| Top5: 1.0000|| || Epoch 14 || val Loss: 0.0209 || Acc: 0.7260||Top1: 0.7260|| Top5: 0.9390|| || 
+Epoch 15 || train Loss: 0.0003 || Acc: 0.9950||Top1: 0.9950|| Top5: 1.0000|| || Epoch 15 || val Loss: 0.0205 || Acc: 0.7250||Top1: 0.7250|| Top5: 0.9370|| || 
+Epoch 16 || train Loss: 0.0002 || Acc: 0.9966||Top1: 0.9966|| Top5: 1.0000|| || Epoch 16 || val Loss: 0.0211 || Acc: 0.7160||Top1: 0.7160|| Top5: 0.9390|| || 
+Epoch 17 || train Loss: 0.0002 || Acc: 0.9971||Top1: 0.9971|| Top5: 1.0000|| || Epoch 17 || val Loss: 0.0206 || Acc: 0.7190||Top1: 0.7190|| Top5: 0.9360|| || 
+Epoch    17: reducing learning rate of group 0 to 6.2500e-04.
+Epoch 18 || train Loss: 0.0002 || Acc: 0.9965||Top1: 0.9965|| Top5: 1.0000|| || Epoch 18 || val Loss: 0.0207 || Acc: 0.7190||Top1: 0.7190|| Top5: 0.9380|| || 
+Epoch 19 || train Loss: 0.0002 || Acc: 0.9969||Top1: 0.9969|| Top5: 1.0000|| || Epoch 19 || val Loss: 0.0208 || Acc: 0.7170||Top1: 0.7170|| Top5: 0.9390|| || 
+Epoch 20 || train Loss: 0.0002 || Acc: 0.9976||Top1: 0.9976|| Top5: 1.0000|| || Epoch 20 || val Loss: 0.0210 || Acc: 0.7250||Top1: 0.7250|| Top5: 0.9370|| || 
+Epoch 21 || train Loss: 0.0002 || Acc: 0.9972||Top1: 0.9972|| Top5: 1.0000|| || Epoch 21 || val Loss: 0.0206 || Acc: 0.7170||Top1: 0.7170|| Top5: 0.9350|| || 
+Epoch    21: reducing learning rate of group 0 to 3.1250e-04.
+Epoch 22 || train Loss: 0.0002 || Acc: 0.9970||Top1: 0.9970|| Top5: 1.0000|| || Epoch 22 || val Loss: 0.0208 || Acc: 0.7180||Top1: 0.7180|| Top5: 0.9360|| || 
+Epoch 23 || train Loss: 0.0002 || Acc: 0.9976||Top1: 0.9976|| Top5: 1.0000|| || Epoch 23 || val Loss: 0.0206 || Acc: 0.7170||Top1: 0.7170|| Top5: 0.9400|| || 
+
+Training complete in 4m 55s
+Best val Acc: 0.726000
